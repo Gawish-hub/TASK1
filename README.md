@@ -1,1 +1,6 @@
-# Nmap Scan Results - Task 1
+<<<<<<< HEAD
+Your changes
+=======
+Incoming changes
+>>>>>>> branch-name
+
